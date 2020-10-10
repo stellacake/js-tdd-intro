@@ -1,5 +1,5 @@
 const assert = require('assert');
-const Rectangle = require('./rectangle');
+const Rectangle = require('../rectangle');
 
 describe('Rectangle.isSquare', () => {
     it('tells if the rectangle is square', () => {

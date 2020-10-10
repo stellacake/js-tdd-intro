@@ -1,5 +1,5 @@
 const assert = require('assert');
-const capitalizeFirstLetters = require('./capitalizeFirstLetters');
+const capitalizeFirstLetters = require('../capitalizeFirstLetters');
 
 describe('capitalizeFirstLetters', () => {
     it('is a function accepting one argument', () => {
